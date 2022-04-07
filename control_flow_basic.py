@@ -61,8 +61,8 @@ def divisible_by_ten(num):
 print(divisible_by_ten(20)) #should print True
 print(divisible_by_ten(25)) #should print False
 
-#-------------Question 4-------------------
-print("Question 4")
+#-------------Question 5-------------------
+print("Question 5")
 #Create a function named not_sum_to_ten() that has two parameters named num1 and num2.
 #Return True if num1 and num2 do not sum to 10. Return False otherwise.
 
